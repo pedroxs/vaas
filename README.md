@@ -15,3 +15,6 @@ http://bit.do/vaas_-
 
 ## contribute
 Send your PR's to support more systems!
+
+## original author
+[@ggviana](https://github.com/ggviana)
